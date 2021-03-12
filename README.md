@@ -36,7 +36,7 @@ All'interno delle cartelle di questa repository troverete:
 - *Eventuali* esercitazioni, nei limiti di quanto descritto sopra.
 
 I file plain text e PDF possono essere aperti liberamente da una vasta quantità di programmi, browser compresi; per i file Xopp è necessario uno step extra: questi possono essere aperti solo da Xournal++, il programma che ho usato per la realizzazione dei miei appunti. Il programma in questione è open source, e scaricabile dalla sua [repository](https://github.com/xournalpp/xournalpp/releases), disponibile per MacOS, Windows e Ubuntu, compilabile su tutto il resto.
-I file .draw possono essere aperti tramite [draw.io](draw.io), e conterranno generalmente mappe concettuali.
+I file .draw possono essere aperti tramite [draw.io](https://https://app.diagrams.net/), e conterranno generalmente mappe concettuali.
 Per i file di testo (.doc, .docx, .odt, ecc...) dovrebbe essere sufficiente LibreOffice, ma alcuni file richiedono Microsoft Word (2016 o superiore) per essere visualizzati correttamente.
 
 ### Cos'è Xournal/Xournal++?
