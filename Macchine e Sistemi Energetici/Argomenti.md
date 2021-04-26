@@ -1,8 +1,8 @@
-## Introduzione all'energia e alle macchine
+## 01 - Introduzione all'energia e alle macchine
 - Fonti di energia, domanda energetica globale
 - Classificazione delle macchine
 
-## Termodinamica delle macchine
+## 02 - Termodinamica delle macchine
 - Principi della Termodinamica
 - Ciclo di Carnot
 - Relazioni dei gas perfetti, trasformazioni politropiche
@@ -13,19 +13,19 @@
 - Lavoro politropico e rendimento politropico
 - Compressioni ed espansioni isoterme, Ciclo di Ericsson
 
-## Impianti Motori Termici
+## 03 - Impianti Motori Termici
 - Cenni sulla combustione
 - Catena dei rendimenti
 - Consumo specifico
 
-## Fluidodinamica delle macchine
+## 04 - Fluidodinamica delle macchine
 - Velocità di propagazione delle perturbazioni
 - Equazioni del flusso isoentropico
 - Ugelli convergenti-divergenti
 - Onde d'urto normali e oblique
 - Numero di Mach critico e stallo aerodinamico
 
-## Scambio di lavoro nelle turbomacchine
+## 05 - Scambio di lavoro nelle turbomacchine
 - Scomposizione delle velocità
 - Equazione di Eulero
 - Stadio di una macchina
@@ -44,7 +44,7 @@
   - Sdoppiamento della turbina
   - Cenni di centrali termoelettriche
 
-## Macchine operatrici
+## 06 - Macchine operatrici
 - Scambi di energia nelle macchine operatrici
 - Macchina operatrice centrifuga
 - Scorrimento, perdite per imbocco
@@ -64,7 +64,7 @@
   - Compressore volumetrico alternativo
   - Compressore scroll (cenni)
 
-## Impianti a vapore
+## 07 - Impianti a vapore
 - Dal Ciclo di Carnot al Ciclo di Rankine
 - Ciclo Hirn
   - Risurriscaldamento e rigenerazione
@@ -75,7 +75,7 @@
   - Rendimento dell'impianto
   - Regolazione dell'impianto: parzializzazione e laminazione
 
-## Impianti nucleari
+## 08 - Impianti nucleari
 - L'energia nucleare
 - L'uranio e i suoi isotopi
   - Processo di arricchimento dell'uranio
@@ -84,3 +84,25 @@
   - Moderazione e raffreddamento dei reattori
 - Sicurezza degli impianti nucleari
   - Smaltimento delle scorie, sicurezza attiva e passiva
+
+## 09 - Motori a combustione interna
+
+## 10 - Impianti a gas
+- Ciclo Joule, rendimento e lavoro
+- Ciclo reale e ciclo limite
+- Problemi tecnici: il raffreddamento delle pale
+  - Spillamento
+- Impianti mono- e bialbero
+- Impianti "Heavy-duty"
+- TG per la propulsione aeronautica
+- Modifiche al Ciclo Joule, Ciclo di Ericsson
+- Regolazione dell'impianto: variazione della portata e del rapporto di misc.
+- Impianti combinati
+
+## 11 - Macchine motrici idrauliche
+- Turbine idrauliche
+  - Turbine Pelton, Francis e Kaplan
+- Tubo diffusore
+- Smaltimento della portata
+- Impianti di accumulo e pompaggio
+- Numero di giri specifico
