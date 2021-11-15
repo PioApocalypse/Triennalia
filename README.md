@@ -1,7 +1,13 @@
+### See what you like?
+Se questi appunti sono di tuo gradimento / ti sono stati utili, per favore dai il tuo contributo:
+- [Segnala gli errori](mailto:emanueledamico1504@virgilio.it)
+- [Dona su PayPal](https://paypal.me/PioApocalypse)
+
 # Cos'è Triennalia?
-Triennalia è una repository contenente i miei appunti digitali di alcune materie del Corso di Laurea *triennale* di Ingegneria Meccanica. Gli appunti "testuali" sono stati scritti con Word, LibreOffice e programmi simili, non sempre saranno in formato aperto ma purtroppo convertire i vecchi file decentemente è un lavoraccio; gli appunti "disegnati" sono stati scritti con una One by Wacom® Medium su Xournal++, e richiedono quest'ultimo per potere essere modificati. I file originali possono essere **scaricati**, **aperti**, **esportati** in PDF o altri formati, **stampati** e - entro un certo estento - **modificati**. 
-I file sono protetti e distribuiti sotto licenza [GNU Free Documentation Licence](https://www.gnu.org/licenses/fdl-1.3.html).
-Per favore, evitate di ridistribuirli tramite cloud e repository varie.
+Triennalia è una repository contenente i miei appunti digitali di alcune materie del Corso di Laurea *triennale* di Ingegneria Meccanica. Gli appunti "testuali" sono stati scritti con Word, LibreOffice e programmi simili, non sempre saranno in formato aperto ma purtroppo convertire i vecchi file decentemente è un lavoraccio; gli appunti "disegnati" sono stati scritti con una One by Wacom® Medium su Xournal++, e richiedono quest'ultimo per potere essere modificati.
+
+I file originali possono essere scaricati, aperti, esportati in PDF o altri formati, stampati e - entro un certo estento - modificati; i file sono protetti e distribuiti sotto licenza [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), che permette la **condivisione**, la **ridistribuzione** e l'**adattamento** del materiale sotto le condizioni di **_Attribuzione_** (deve sempre figurare il mio nome reale o quantomeno il mio pseudonimo), **_Non commerciale_** (vietata la vendita a prezzo diverso da quello di stampa) e **_ShareAlike_** (qualsiasi opera derivata deve essere distribuita sotto Creative Commons).
+Per favore, evitate di ridistribuirli tramite cloud per pubblicizzare associazioni o eventi.
 
 ### Perché esiste Triennalia?
 **Perché la conoscenza del futuro è [open](https://it.wikipedia.org/wiki/Conoscenza_aperta).** Con un grandissimo dito medio alzato verso chiunque si opponga a questa affermazione. E nel mio piccolo voglio fare la mia parte, pubblicando i miei appunti sui quali ho studiato in questi anni di triennale, sperando nel frattempo di inspirare chiunque prenda qualcosa da questa repository a pubblicare a sua volta i propri appunti una volta che ha finito di usarli.
@@ -13,7 +19,8 @@ Tutte le materie di cui ho scritto appunti digitali. Se suona incredibilmente ar
 Semplicemente se ho appunti scritti di mio pugno, in formato digitale e ne detengo i diritti (quindi niente citazioni da libri, materiale di docenti, prove d'esame di docenti, ecc...), questi si trovano qui. La lista completa di materie reperibili su questa repository:
 - Impianti di Condizionamento, 6 CFU
 - ~~Meccanica Razionale, 6 CFU~~ (in revisione...)
-- ~~Macchine e Sistemi Energetici, 12 CFU~~ (lavori in corso...)
+- Scienza delle Costruzioni (lavori in corso...)
+- Macchine e Sistemi Energetici, 12 CFU (salvo il motore a combustione interna)
 - In espansione...
 
 E basta, per ora. Purtroppo al momento la mia laurea ha la priorità. Se avrò tempo libero da dedicare a questo progetto, cercherò di espanderlo il più possibile in futuro. È vero, anche io beneficio di questi appunti, ma scriverli mi richiede molto più tempo di quanto ci voglia a studiare direttamente da un libro o dagli schizzi presi a lezione. Sono uno studente anche io, per ora. Se in futuro le cose andranno meglio, potrei anche portare a compimento il progetto. Se ciò dovesse avvenire, mi occuperei probabilmente prima degli esami del primo anno, dei quali conservo buoni appunti cartacei.
@@ -50,3 +57,6 @@ Un breve documento su come risolvere i problemi più comuni che è possibile ris
 ### Posso contribuire?
 Per ora non attivamente (pull-request), ma se avete da segnalare errori o da suggerire modifiche particolari sono sempre disponibile. Il miglior contributo che possiate dare è appunto la segnalazione degli errori - *«Segnala un errore, salva un esame»*.
 Le pull-request saranno rifiutate, per favore contattatemi direttamente se avete in mente qualcosa che dovrei aggiungere o cambiare.
+Il mio indirizzo e-mail è emanueledamico1504@virgilio.it.
+
+Un altro contributo importante, se siete soddisfatti del lavoro dietro questa repository, è la donazione. Sono pur sempre uno studente, e un contributo anche minimo fa sempre comodo. [Dona su PayPal](https://paypal.me/PioApocalypse)
