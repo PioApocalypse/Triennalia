@@ -3,7 +3,7 @@
 ### See what you like?
 Se questi appunti sono di tuo gradimento / ti sono stati utili, per favore dai il tuo contributo:
 - [Segnala gli errori](mailto:emanueledamico1504@virgilio.it)
-- [Dona su PayPal](https://paypal.me/PioApocalypse)
+- [Offrimi un caffè](https://paypal.me/PioApocalypse)
 
 # Cos'è Triennalia?
 Triennalia è una repository contenente i miei appunti digitali di alcune materie del Corso di Laurea *triennale* di Ingegneria Meccanica. Gli appunti "testuali" sono stati scritti con Word, LibreOffice e programmi simili, non sempre saranno in formato aperto ma purtroppo convertire i vecchi file decentemente è un lavoraccio; gli appunti "disegnati" sono stati scritti con una One by Wacom® Medium su Xournal++, e richiedono quest'ultimo per potere essere modificati.
