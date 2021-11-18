@@ -27,3 +27,7 @@
 - Ipotesi di labilità
 
 [...]
+
+## Esercizi
+- Trave continua iperstatica (per il solo problema flessionale)
+- Verifica di sicurezza su sezione retta sollecitata
