@@ -6,6 +6,8 @@
 - Tensori di deformazione pura inf.ma e rotazione rigida inf.ma
 - Dilatazione/contrazione lineare e scorrimento angolare
 - Deformazioni principali e direzioni principali di deformazione
+- Equazioni indefinite di congruenza
+- Condizioni a contorno di tipo cinematico
 
 ## 02 - Tensioni nel C.C.
 - Forze esterne e interne, postulato di Cauchy
@@ -25,6 +27,19 @@
 - Spostamenti rigidi della trave e centro di rotazione
 - Vincoli esterni e interni
 - Ipotesi di labilità
+- Cedimenti vincolari
+- Problema cinematico
+- Teoremi delle catene cinematiche
+
+## 04 - Statica della trave
+- Problema statico
+- Dualità statico-cinematica
+- Tensioni generalizzate
+- Equazioni indefinite di equilibrio
+- Carichi distribuiti e concentrati
+- Condizioni a contorno di tipo statico
+- Equazioni di equilibrio del nodo
+- Travature reticolari
 
 [...]
 
