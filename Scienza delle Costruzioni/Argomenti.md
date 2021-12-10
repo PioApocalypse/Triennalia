@@ -41,6 +41,21 @@
 - Equazioni di equilibrio del nodo
 - Travature reticolari
 
+## 05 - Problema elasto-statico e principio di De Saint-Venant
+- Legami costitutivi generalizzati (per la trave)
+- Modelli a confronto: Eulero-Bernoulli e Timoshenko
+- Distorsioni
+- Metodo della linea elastica
+- Deformata disegnata a maniera
+- Ipotesi e principio del de Saint-Venant
+- Equazione di Navier per la tensione normale della sezione retta
+- Tensioni tangenziali dovute al taglio (approccio alla Jourawski)
+  - Centro di taglio
+  - Fattori di taglio (solo formule)
+- Tensioni tangenziali dovute alla torsione
+  - Sezioni assialsimmetriche, rettangolari, rett. sottili
+  - Sezioni sottili aperte, sottili chiuse biconnesse (formula di Bredt)
+
 [...]
 
 ## Esercizi
