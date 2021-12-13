@@ -40,6 +40,7 @@
 - Condizioni a contorno di tipo statico
 - Equazioni di equilibrio del nodo
 - Travature reticolari
+- Esercizio - Telaio isostatico (**AL MOMENTO NON DISPONIBILE**)
 
 ## 05 - Problema elasto-statico e principio di De Saint-Venant
 - Legami costitutivi generalizzati (per la trave)
@@ -55,9 +56,16 @@
 - Tensioni tangenziali dovute alla torsione
   - Sezioni assialsimmetriche, rettangolari, rett. sottili
   - Sezioni sottili aperte, sottili chiuse biconnesse (formula di Bredt)
+- Esercizio - Trave continua iperstatica (per il solo problema flessionale)
 
-[...]
+## 06 - Criteri di resistenza
+- Criteri di resistenza per materiali duttili e verifica di sicurezza
+- Criterio di Tresca
+- Criterio di von Mises
+- Instabilità delle travi
+- Carico critico euleriano, formula di Eulero
+- Esercizio - Verifica di sicurezza su sezione sottile aperta
 
 ## Esercizi
 - Trave continua iperstatica (per il solo problema flessionale)
-- Verifica di sicurezza su sezione retta sollecitata
+- Verifica di sicurezza su sezione sottile aperta
