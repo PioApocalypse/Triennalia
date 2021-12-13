@@ -21,7 +21,7 @@ Tutte le materie di cui ho scritto appunti digitali. Se suona incredibilmente ar
 Semplicemente se ho appunti scritti di mio pugno, in formato digitale e ne detengo i diritti (quindi niente citazioni da libri, materiale di docenti, prove d'esame di docenti, ecc...), questi si trovano qui. La lista completa di materie reperibili su questa repository:
 - Impianti di Condizionamento, 6 CFU
 - ~~Meccanica Razionale, 6 CFU~~ (in revisione...)
-- Scienza delle Costruzioni (lavori in corso...)
+- Scienza delle Costruzioni, 6 CFU
 - Macchine e Sistemi Energetici, 12 CFU (salvo il motore a combustione interna)
 - In espansione...
 
