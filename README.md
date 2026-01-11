@@ -63,7 +63,6 @@ In estrema sintesi i file sorgente sono file modificabili contenenti le informaz
 Inoltre, Xournal++ ha un bel po' di roba carina, è compatibile con molte tavolette grafiche, permette di annotare PDF, di esportare in PNG (trasparente e non) e tanto altro. Perfetta alternativa open source soprattutto se si è interessati alla scrittura di appunti digitali.
 
 ### Posso contribuire?
-Per ora non attivamente (niente pull-request), ma se avete da segnalare errori o da suggerire modifiche particolari sono sempre disponibile. Il miglior contributo che possiate dare è appunto la segnalazione degli errori - *«Segnala un errore, salva un esame»*.
-Le pull-request saranno rifiutate, per favore contattatemi direttamente se avete in mente qualcosa che dovrei aggiungere o cambiare. [Lascio qui il mio link Telegram](https://t.me/pioapocalypse).
+Sì. Se sai come aprire una pull-request usa quella, altrimenti per favore contattami direttamente se hai in mente qualcosa che dovrei aggiungere o cambiare. [Lascio qui il mio link Telegram](https://t.me/pioapocalypse). Sono sempre disponibile se c'è da segnalare/correggere un errore o da migliorare qualcosa che ho realizzato, anzi ti sprono attivamente a contattarmi se sei sicuro che negli appunti ci siano errori - *«Segnala un errore, salva un esame»*.
 
-Un altro contributo importante, se siete soddisfatti del lavoro dietro questa repository, è la donazione. Sono pur sempre uno studente, e un contributo anche minimo fa sempre comodo. [Dona su PayPal](https://paypal.me/PioApocalypse)
+Un altro contributo importante, se siete soddisfatti del lavoro dietro questa repository, è la donazione. Al momento lavoro, per cui tutto quello che mi donerete su PayPal andrà in beneficenza a Croce Rossa Italiana oppure all'AIRC nei primi di settembre. [Dona su PayPal](https://paypal.me/PioApocalypse)
